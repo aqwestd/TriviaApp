@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTriviaApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">   In 2021, we are continuing with our annual target API level update, requiring new apps to target API level 30 (Android 11) in August and in November for all app updates. In addition, as announced earlier this year, </string>
+    <string name="rules">   We’ve been turning it up to 11 all summer long, leading up to the launch of Android 11 on mobile. Now, following right behind the mobile release, we are launching </string>
+</resources>
