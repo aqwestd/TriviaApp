@@ -34,24 +34,28 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#0AD6D5D5"
+            android:onClick="Bugdroid"
             android:text=" Bugdriod" />
 
         <RadioButton
             android:id="@+id/radioButton2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="Andy"
             android:text=" Andy" />
 
         <RadioButton
             android:id="@+id/radioButton3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="noname"
             android:text=" no official name" />
 
         <RadioButton
             android:id="@+id/radioButton4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="Dandroid"
             android:text=" Dandroid" />
 
         <Button
